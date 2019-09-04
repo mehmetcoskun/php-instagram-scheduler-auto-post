@@ -1,0 +1,7 @@
+{
+  "host": "localhost",
+  "dbname": "netrassgram",
+  "dbuser": "root",
+  "dbpass": "",
+  "dbchar": "utf8"
+}

@@ -9,7 +9,7 @@ Netrassgram is a Web Based Instagram timing system. It shares your Instagram pos
 
 **Geliştirilmeye açıktır. (This project is open to development.)**
 
-### Ekran Görüntüleri (Screenshoots)
+### Ekran Görüntüleri (Screenshots)
 
 ![Page 1](images/page1.png)
 
